@@ -139,6 +139,6 @@
     <metadata name="net.sf.eclipsecs.core.lastEnabledSeverity" value="inherit"/>
   </module>
   <module name="SuppressionFilter">
-    <property name="file" value="/home/fabian/code/workspace-scala/Configurations/mysuppressions.xml"/>
+    <property name="file" value="/home/fabian/code/workspace-android/Configurations/mysuppressions.xml"/>
   </module>
 </module>

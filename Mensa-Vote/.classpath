@@ -4,36 +4,6 @@
 	<classpathentry kind="src" output="target/scala-2.9.2/classes" path="src/main/java"/>
 	<classpathentry kind="src" output="target/scala-2.9.2/test-classes" path="src/test/scala"/>
 	<classpathentry kind="src" output="target/scala-2.9.2/test-classes" path="src/test/java"/>
-	<classpathentry kind="lib" path="lib/antlr-2.7.7.jar"/>
-	<classpathentry kind="lib" path="lib/classmate-0.5.4.jar"/>
-	<classpathentry kind="lib" path="lib/commons-codec-1.4.jar"/>
-	<classpathentry kind="lib" path="lib/commons-collections-3.2.1.jar"/>
-	<classpathentry kind="lib" path="lib/commons-io-2.0.1.jar"/>
-	<classpathentry kind="lib" path="lib/commons-io-2.1-javadoc.jar"/>
-	<classpathentry kind="lib" path="lib/commons-io-2.1-sources.jar"/>
-	<classpathentry kind="lib" path="lib/commons-io-2.1.jar"/>
-	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
-	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
-	<classpathentry kind="lib" path="lib/cssparser-0.9.5.jar"/>
-	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
-	<classpathentry kind="lib" path="lib/hsqldb.jar"/>
-	<classpathentry kind="lib" path="lib/htmlunit-2.9.jar"/>
-	<classpathentry kind="lib" path="lib/htmlunit-core-js-2.9.jar"/>
-	<classpathentry kind="lib" path="lib/httpclient-4.1.2.jar"/>
-	<classpathentry kind="lib" path="lib/httpclient-cache-4.1.2.jar"/>
-	<classpathentry kind="lib" path="lib/httpcore-4.1.2.jar"/>
-	<classpathentry kind="lib" path="lib/httpmime-4.1.2.jar"/>
-	<classpathentry kind="lib" path="lib/jandex-1.0.3.Final.jar"/>
-	<classpathentry kind="lib" path="lib/javassist-3.12.1.GA.jar"/>
-	<classpathentry kind="lib" path="lib/jboss-logging-3.1.0.CR2.jar"/>
-	<classpathentry kind="lib" path="lib/jboss-transaction-api_1.1_spec-1.0.0.Final.jar"/>
-	<classpathentry kind="lib" path="lib/nekohtml-1.9.15.jar"/>
-	<classpathentry kind="lib" path="lib/sac-1.3.jar"/>
-	<classpathentry kind="lib" path="lib/serializer-2.7.1.jar"/>
-	<classpathentry kind="lib" path="lib/sqltool.jar"/>
-	<classpathentry kind="lib" path="lib/xalan-2.7.1.jar"/>
-	<classpathentry kind="lib" path="lib/xercesImpl-2.9.1.jar"/>
-	<classpathentry kind="lib" path="lib/xml-apis-1.3.04.jar"/>
 	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
 	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/org.hibernate/hibernate-core/jars/hibernate-core-4.1.7.Final.jar"/>
 	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/antlr/antlr/jars/antlr-2.7.7.jar"/>
@@ -44,6 +14,27 @@
 	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/org.javassist/javassist/jars/javassist-3.15.0-GA.jar"/>
 	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/org.hibernate.common/hibernate-commons-annotations/jars/hibernate-commons-annotations-4.0.1.Final.jar"/>
 	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/hsqldb/hsqldb/jars/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/net.sourceforge.htmlunit/htmlunit/jars/htmlunit-2.11.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/xalan/xalan/jars/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/xalan/serializer/jars/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/commons-collections/commons-collections/jars/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/org.apache.commons/commons-lang3/jars/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/org.apache.httpcomponents/httpcore/jars/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/org.apache.httpcomponents/httpmime/jars/httpmime-4.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/net.sourceforge.htmlunit/htmlunit-core-js/jars/htmlunit-core-js-2.11.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/xerces/xercesImpl/jars/xercesImpl-2.10.0.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/xml-apis/xml-apis/jars/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/net.sourceforge.nekohtml/nekohtml/jars/nekohtml-1.9.17.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/net.sourceforge.cssparser/cssparser/jars/cssparser-0.9.8.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/org.w3c.css/sac/jars/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/commons-io/commons-io/jars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/org.eclipse.jetty/jetty-websocket/jars/jetty-websocket-8.1.7.v20120910.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/org.eclipse.jetty/jetty-util/jars/jetty-util-8.1.7.v20120910.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/org.eclipse.jetty/jetty-io/jars/jetty-io-8.1.7.v20120910.jar"/>
+	<classpathentry kind="lib" path="/home/fabian/.ivy2/cache/org.eclipse.jetty/jetty-http/jars/jetty-http-8.1.7.v20120910.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/Message-Library"/>
 	<classpathentry kind="output" path="bin"/>

@@ -11,3 +11,5 @@ resolvers += "JBoss Repository" at "https://repository.jboss.org/nexus/content/g
 libraryDependencies += "org.hibernate" % "hibernate-core" % "4.1.7.Final"
 
 libraryDependencies += "hsqldb" % "hsqldb" % "1.8.0.10"
+
+libraryDependencies += "net.sourceforge.htmlunit" % "htmlunit" % "2.11"

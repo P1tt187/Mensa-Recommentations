@@ -10,5 +10,5 @@ after that you have to add the Message-Library Project manually to the Java Buil
 # used plugins
 * [checkstyle](http://checkstyle.sourceforge.net/)
 * [scalastyle](http://www.scalastyle.org/)
-* [proguard scala] ("http://scala-ide.org/docs/tutorials/androiddevelopment/index.html")
+* [proguard scala](http://scala-ide.org/docs/tutorials/androiddevelopment/index.html)
 
